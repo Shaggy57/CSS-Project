@@ -1,0 +1,53 @@
+body {
+    background-color: khaki;
+}
+
+h1 {
+    color:aqua;
+    outline: black;
+    background-color: black;
+    text-align: center;
+}
+
+p {
+    text-align: left;
+    color: black;
+}
+
+form {
+    text-transform: uppercase;
+    background-color: yellow;
+}
+
+table {
+    table-layout: fixed;
+    text-align: left;
+    color: black;
+    outline: auto;
+}
+
+thead{
+    text-decoration: underline;
+    text-transform: capitalize;
+    text-emphasis: bold;
+}
+td {
+    color: red;
+}
+
+li {
+    color:hotpink;
+    text-transform: capitalize;
+    text-decoration: solid;
+}
+
+ul {
+    color: black;
+    text-size-adjust: 54;
+    text-decoration: underline;
+}
+
+a {
+    text-emphasis: bold;
+    text-size-adjust: auto;  
+}
